@@ -1,0 +1,15 @@
+{
+  "clientToken": "324cf70a-aaae-4e15-86ac-48f35398a8d8",
+  "accounts": {
+    "b723af7249e14c039009dc26bc7e576a": {
+      "username": "PARAVOZ",
+      "userID": "PARAVOZ",
+      "displayName": "PARAVOZ",
+      "uuid": "b723af7249e14c039009dc26bc7e576a",
+      "type": "free",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "b723af7249e14c039009dc26bc7e576a",
+  "freeAccountUUID": "b723af7249e14c039009dc26bc7e576a"
+}

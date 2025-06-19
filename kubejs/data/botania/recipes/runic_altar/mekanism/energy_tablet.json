@@ -1,0 +1,30 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "mekanism:energy_tablet"
+  },
+  "mana": 50000,
+  "ingredients": [
+    {
+      "item": "mekanism:alloy_infused"
+    },
+    {
+      "tag": "forge:ingots/osmium"
+    },
+    {
+      "item": "mekanism:alloy_infused"
+    },
+    {
+      "tag": "forge:ingots/steel"
+    },
+    {
+      "item": "mekanism:alloy_infused"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "tag": "forge:ingots/electrum"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+[13:05:59.047][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[13:06:00.179][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+'aquaculture' at version '1.16.5-2.1.23'
+'astralsorcery' at version '1.16.4-1.14.1'
+'bloodmagic' at version '1.16.4-3.1.13-39'
+'botania' at version '1.16.5-420.3'
+'botanypots' at version '7.1.41'
+'crafttweaker' at version '7.1.2.527'
+'cyclic' at version '1.16.5-1.6.1'
+'draconicevolution' at version '3.0.29.518'
+'extendedcrafting' at version '3.1.13'
+'farmersdelight' at version '1.16.5-0.6.0'
+'immersiveengineering' at version '1.16.5-5.1.0-148'
+'jeitweaker' at version '1.1.0.49'
+'mekanism' at version '10.1.2'
+'mysticalagriculture' at version '4.2.6'
+'tconstruct' at version '3.3.4.335'
+[13:06:02.223][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[13:06:23.264][LOAD_REGISTRIES][CLIENT][INFO] Started loading Scripts for Loader 'mekanismcontent'!
+[13:06:24.142][LOAD_REGISTRIES][CLIENT][INFO] Finished loading Scripts!
+[13:06:24.143][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom gases.
+[13:06:24.162][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom infuse types.
+[13:06:24.168][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom pigments.
+[13:06:24.171][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom robit skins.
+[13:06:24.174][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom slurries.
+[13:06:54.540][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[13:06:54.904][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
+[13:08:22.976][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[13:08:23.146][DONE][CLIENT][INFO] Loading file: 'appliedenergistics2.zs' with priority: 10
+[13:08:23.166][DONE][CLIENT][INFO] Loading file: 'botania.zs' with priority: 10
+[13:08:23.170][DONE][CLIENT][INFO] Loading file: 'extendedcrafting.zs' with priority: 10
+[13:08:23.172][DONE][CLIENT][INFO] Loading file: 'immersiveengineering.zs' with priority: 10
+[13:08:23.178][DONE][CLIENT][INFO] Loading file: 'industrialforegoing.zs' with priority: 10
+[13:08:23.200][DONE][CLIENT][INFO] Loading file: 'mekanism.zs' with priority: 10
+[13:08:23.576][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:crystals/fluix> does not exist, replacing with empty IItemStack
+[13:08:23.576][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:crystals/fluix> does not exist, replacing with empty IItemStack
+[13:08:23.578][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:crystals/fluix> does not exist, replacing with empty IItemStack
+[13:08:23.578][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:crystals/fluix> does not exist, replacing with empty IItemStack
+[13:08:23.579][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:glass_cable> does not exist, replacing with empty IItemStack
+[13:08:23.579][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:glass_cable> does not exist, replacing with empty IItemStack
+[13:08:23.579][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:crystals/fluix> does not exist, replacing with empty IItemStack
+[13:08:23.579][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:glass_cable> does not exist, replacing with empty IItemStack
+[13:08:23.579][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:glass_cable> does not exist, replacing with empty IItemStack
+[13:08:23.579][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:crystals/fluix> does not exist, replacing with empty IItemStack
+[13:08:23.580][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:crystals/fluix> does not exist, replacing with empty IItemStack
+[13:08:23.580][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:crystals/fluix> does not exist, replacing with empty IItemStack
+[13:08:23.580][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:crystals/fluix> does not exist, replacing with empty IItemStack
+[13:08:23.580][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:crystals/fluix> does not exist, replacing with empty IItemStack
+[13:08:23.581][DONE][CLIENT][WARNING] Tag <tag:items:forge:wool> does not exist, replacing with empty IItemStack
+[13:08:23.581][DONE][CLIENT][WARNING] Tag <tag:items:forge:wool> does not exist, replacing with empty IItemStack
+[13:08:23.581][DONE][CLIENT][WARNING] Tag <tag:items:forge:wool> does not exist, replacing with empty IItemStack
+[13:08:23.581][DONE][CLIENT][WARNING] Tag <tag:items:forge:wool> does not exist, replacing with empty IItemStack
+[13:08:23.583][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:crystals/fluix> does not exist, replacing with empty IItemStack
+[13:08:23.583][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:crystals/fluix> does not exist, replacing with empty IItemStack
+[13:08:23.584][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:crystals/certus> does not exist, replacing with empty IItemStack
+[13:08:23.584][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:crystals/certus> does not exist, replacing with empty IItemStack
+[13:08:23.584][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:crystals/certus> does not exist, replacing with empty IItemStack
+[13:08:23.584][DONE][CLIENT][WARNING] Tag <tag:items:appliedenergistics2:crystals/certus> does not exist, replacing with empty IItemStack
+[13:08:23.612][DONE][CLIENT][WARNING] Tag <tag:items:forge:axes> does not exist, replacing with empty IItemStack
+[13:08:23.612][DONE][CLIENT][WARNING] Tag <tag:items:forge:swords> does not exist, replacing with empty IItemStack
+[13:08:23.613][DONE][CLIENT][WARNING] Tag <tag:items:forge:swords> does not exist, replacing with empty IItemStack
+[13:08:23.613][DONE][CLIENT][WARNING] Tag <tag:items:forge:axes> does not exist, replacing with empty IItemStack
+[13:08:23.613][DONE][CLIENT][WARNING] Tag <tag:items:forge:hoes> does not exist, replacing with empty IItemStack
+[13:08:23.613][DONE][CLIENT][WARNING] Tag <tag:items:forge:hoes> does not exist, replacing with empty IItemStack
+[13:08:23.614][DONE][CLIENT][WARNING] Tag <tag:items:forge:axes> does not exist, replacing with empty IItemStack
+[13:08:23.614][DONE][CLIENT][WARNING] Tag <tag:items:forge:hoes> does not exist, replacing with empty IItemStack
+[13:08:23.614][DONE][CLIENT][WARNING] Tag <tag:items:forge:hoes> does not exist, replacing with empty IItemStack
+[13:08:23.614][DONE][CLIENT][WARNING] Tag <tag:items:forge:axes> does not exist, replacing with empty IItemStack
+[13:08:23.615][DONE][CLIENT][WARNING] Tag <tag:items:forge:swords> does not exist, replacing with empty IItemStack
+[13:08:23.615][DONE][CLIENT][WARNING] Tag <tag:items:forge:swords> does not exist, replacing with empty IItemStack
+[13:08:23.616][DONE][CLIENT][WARNING] Tag <tag:items:forge:tools/pickaxes> does not exist, replacing with empty IItemStack
+[13:08:23.616][DONE][CLIENT][WARNING] Tag <tag:items:forge:tools/pickaxes> does not exist, replacing with empty IItemStack
+[13:08:23.616][DONE][CLIENT][WARNING] Tag <tag:items:forge:tools/shovels> does not exist, replacing with empty IItemStack
+[13:08:23.616][DONE][CLIENT][WARNING] Tag <tag:items:forge:tools/pickaxes> does not exist, replacing with empty IItemStack
+[13:08:23.617][DONE][CLIENT][WARNING] Tag <tag:items:forge:tools/pickaxes> does not exist, replacing with empty IItemStack
+[13:08:23.618][DONE][CLIENT][WARNING] Tag <tag:items:forge:tools/pickaxes> does not exist, replacing with empty IItemStack
+[13:08:23.618][DONE][CLIENT][WARNING] Tag <tag:items:forge:tools/pickaxes> does not exist, replacing with empty IItemStack
+[13:08:23.618][DONE][CLIENT][WARNING] Tag <tag:items:forge:cooked_beef> does not exist, replacing with empty IItemStack
+[13:08:23.618][DONE][CLIENT][WARNING] Tag <tag:items:forge:cooked_beef> does not exist, replacing with empty IItemStack
+[13:08:23.623][DONE][CLIENT][INFO] Finished loading Scripts!
